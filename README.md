@@ -3,7 +3,6 @@
 <h3 align="center">A passionate developer from India, who is always interested into learning and building projects.</h3>
 
 <img align="right" alt="coding" height="400" src="https://github.com/user-attachments/assets/8834a464-a727-4498-bb9a-bfc09d7d9fa5"/>
-<br clear="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baunax&label=Profile%20views&color=0e75b6&style=flat" alt="baunax" /> </p>
 
@@ -11,6 +10,7 @@
 
 - 📫 How to reach me **deepmaitra2006@gmail.com**
 
+<br clear="right">
 <h1 align="center">Connect with me:</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/deep-maitra-292097263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep maitra" height="30" width="40" /></a>
