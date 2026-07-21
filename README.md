@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deep Maitra</h1>
 <h3 align="center">A passionate developer from India, who is always interested into learning and building projects.</h3>
 
-<img align="right" alt="coding" width="800" src="https://github.com/user-attachments/assets/8834a464-a727-4498-bb9a-bfc09d7d9fa5"/>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8834a464-a727-4498-bb9a-bfc09d7d9fa5"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baunax&label=Profile%20views&color=0e75b6&style=flat" alt="baunax" /> </p>
 
