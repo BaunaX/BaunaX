@@ -1,3 +1,4 @@
+![logo](https://github.com/BaunaX/BaunaX/blob/main/Deep%20Banner.png)
 <h1 align="center">Hi 👋, I'm Deep Maitra</h1>
 <h3 align="center">A passionate developer from India, who is always interested into learning and building projects.</h3>
 
