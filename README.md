@@ -27,89 +27,60 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<table align="center">
-
-<tr>
-<td valign="top" width="25%">
-
 ### 💡 Languages
 
-| | |
-|:-:|:--|
-| <img src="https://skillicons.dev/icons?i=python" width="32"/> | Python |
-| <img src="https://skillicons.dev/icons?i=c" width="32"/> | C |
-| <img src="https://skillicons.dev/icons?i=cpp" width="32"/> | C++ |
-| <img src="https://skillicons.dev/icons?i=java" width="32"/> | Java |
-| <img src="https://skillicons.dev/icons?i=js" width="32"/> | JavaScript |
-| <img src="https://skillicons.dev/icons?i=ts" width="32"/> | TypeScript |
-| <img src="https://skillicons.dev/icons?i=html" width="32"/> | HTML5 |
-| <img src="https://skillicons.dev/icons?i=css" width="32"/> | CSS3 |
-| <img src="https://skillicons.dev/icons?i=md" width="32"/> | Markdown |
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=python" width="45"><br>Python | <img src="https://skillicons.dev/icons?i=c" width="45"><br>C | <img src="https://skillicons.dev/icons?i=cpp" width="45"><br>C++ |
+| <img src="https://skillicons.dev/icons?i=java" width="45"><br>Java | <img src="https://skillicons.dev/icons?i=js" width="45"><br>JavaScript | <img src="https://skillicons.dev/icons?i=ts" width="45"><br>TypeScript |
+| <img src="https://skillicons.dev/icons?i=html" width="45"><br>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="45"><br>CSS3 | <img src="https://skillicons.dev/icons?i=md" width="45"><br>Markdown |
 
-</td>
+---
 
-<td valign="top" width="25%">
+### ⚛️ Frameworks & Libraries
 
-### ⚛️ Frameworks
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=react" width="45"><br>React | <img src="https://skillicons.dev/icons?i=vite" width="45"><br>Vite | <img src="https://skillicons.dev/icons?i=bootstrap" width="45"><br>Bootstrap |
+| <img src="https://skillicons.dev/icons?i=django" width="45"><br>Django | <img src="https://skillicons.dev/icons?i=express" width="45"><br>Express.js | <img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>Node.js |
+| <img src="https://skillicons.dev/icons?i=npm" width="45"><br>NPM | <img src="https://skillicons.dev/icons?i=firebase" width="45"><br>Firebase | <img src="https://skillicons.dev/icons?i=supabase" width="45"><br>Supabase |
 
-| | |
-|:-:|:--|
-| <img src="https://skillicons.dev/icons?i=react" width="32"/> | React |
-| <img src="https://skillicons.dev/icons?i=vite" width="32"/> | Vite |
-| <img src="https://skillicons.dev/icons?i=bootstrap" width="32"/> | Bootstrap |
-| <img src="https://skillicons.dev/icons?i=django" width="32"/> | Django |
-| <img src="https://skillicons.dev/icons?i=express" width="32"/> | Express.js |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="32"/> | Node.js |
-| <img src="https://skillicons.dev/icons?i=npm" width="32"/> | NPM |
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
+---
 
 ### 🗄️ Databases
 
-| | |
-|:-:|:--|
-| <img src="https://skillicons.dev/icons?i=mongodb" width="32"/> | MongoDB |
-| <img src="https://skillicons.dev/icons?i=mysql" width="32"/> | MySQL |
-| <img src="https://skillicons.dev/icons?i=sqlite" width="32"/> | SQLite |
-| <img src="https://skillicons.dev/icons?i=firebase" width="32"/> | Firebase |
-| <img src="https://skillicons.dev/icons?i=supabase" width="32"/> | Supabase |
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=mongodb" width="45"><br>MongoDB | <img src="https://skillicons.dev/icons?i=mysql" width="45"><br>MySQL | <img src="https://skillicons.dev/icons?i=sqlite" width="45"><br>SQLite |
 
-</td>
+---
 
-<td valign="top">
+### ☁️ Cloud & Hosting
 
-### 🛠️ Tools & Cloud
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=gcp" width="45"><br>Google Cloud | <img src="https://skillicons.dev/icons?i=vercel" width="45"><br>Vercel | <img src="https://skillicons.dev/icons?i=netlify" width="45"><br>Netlify |
+| <img src="https://skillicons.dev/icons?i=cloudflare" width="45"><br>Cloudflare | <img src="https://skillicons.dev/icons?i=render" width="45"><br>Render | |
 
-| | |
-|:-:|:--|
-| <img src="https://skillicons.dev/icons?i=git" width="32"/> | Git |
-| <img src="https://skillicons.dev/icons?i=github" width="32"/> | GitHub |
-| <img src="https://skillicons.dev/icons?i=postman" width="32"/> | Postman |
-| <img src="https://skillicons.dev/icons?i=gcp" width="32"/> | Google Cloud |
-| <img src="https://skillicons.dev/icons?i=cloudflare" width="32"/> | Cloudflare |
-| <img src="https://skillicons.dev/icons?i=netlify" width="32"/> | Netlify |
-| <img src="https://skillicons.dev/icons?i=vercel" width="32"/> | Vercel |
-| <img src="https://skillicons.dev/icons?i=render" width="32"/> | Render |
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="32"/> | TensorFlow |
-| <img src="https://skillicons.dev/icons?i=opencv" width="32"/> | OpenCV |
-| <img src="https://skillicons.dev/icons?i=git" width="32"/> | Keras |
-| <img src="https://skillicons.dev/icons?i=git" width="32"/> | NumPy |
-| <img src="https://skillicons.dev/icons?i=git" width="32"/> | Pandas |
-| <img src="https://skillicons.dev/icons?i=git" width="32"/> | SciPy |
-| <img src="https://skillicons.dev/icons?i=git" width="32"/> | Matplotlib |
-| <img src="https://skillicons.dev/icons?i=git" width="32"/> | Nodemon |
+---
 
-</td>
+### 🤖 AI / Machine Learning
 
-</tr>
+| | | |
+|:-:|:-:|:-:|
+| 🟠<br>TensorFlow | 🔴<br>Keras | 👁️<br>OpenCV |
+| 🔢<br>NumPy | 🐼<br>Pandas | 📈<br>Matplotlib |
+| 🔬<br>SciPy | | |
 
-</table>
+---
+
+### 🛠️ Tools
+
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=git" width="45"><br>Git | <img src="https://skillicons.dev/icons?i=github" width="45"><br>GitHub | <img src="https://skillicons.dev/icons?i=postman" width="45"><br>Postman |
+| ⚡<br>Nodemon | | |
+
 
 ![snake gif](https://github.com/BaunaX/BaunaX/blob/output/github-snake-dark.svg)
 
