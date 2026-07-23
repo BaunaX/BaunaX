@@ -25,62 +25,129 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h2 align="center">💻 Tech Stack</h2>
 
-### 💡 Languages
+<h1 align="center">💻 Tech Stack (in tabular form)</h1>
 
-| | | |
-|:-:|:-:|:-:|
-| <img src="https://skillicons.dev/icons?i=python" width="45"><br>Python | <img src="https://skillicons.dev/icons?i=c" width="45"><br>C | <img src="https://skillicons.dev/icons?i=cpp" width="45"><br>C++ |
-| <img src="https://skillicons.dev/icons?i=java" width="45"><br>Java | <img src="https://skillicons.dev/icons?i=js" width="45"><br>JavaScript | <img src="https://skillicons.dev/icons?i=ts" width="45"><br>TypeScript |
-| <img src="https://skillicons.dev/icons?i=html" width="45"><br>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="45"><br>CSS3 | <img src="https://skillicons.dev/icons?i=md" width="45"><br>Markdown |
+<table width="100%">
 
----
+<tr>
 
-### ⚛️ Frameworks & Libraries
+<td valign="top" align="center">
+
+<h3>💡 Languages</h3>
 
 | | | |
 |:-:|:-:|:-:|
-| <img src="https://skillicons.dev/icons?i=react" width="45"><br>React | <img src="https://skillicons.dev/icons?i=vite" width="45"><br>Vite | <img src="https://skillicons.dev/icons?i=bootstrap" width="45"><br>Bootstrap |
-| <img src="https://skillicons.dev/icons?i=django" width="45"><br>Django | <img src="https://skillicons.dev/icons?i=express" width="45"><br>Express.js | <img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>Node.js |
-| <img src="https://skillicons.dev/icons?i=npm" width="45"><br>NPM | <img src="https://skillicons.dev/icons?i=firebase" width="45"><br>Firebase | <img src="https://skillicons.dev/icons?i=supabase" width="45"><br>Supabase |
+| <img src="https://skillicons.dev/icons?i=python" width="50"><br>Python | <img src="https://skillicons.dev/icons?i=c" width="50"><br>C | <img src="https://skillicons.dev/icons?i=cpp" width="50"><br>C++ |
+| <img src="https://skillicons.dev/icons?i=java" width="50"><br>Java | <img src="https://skillicons.dev/icons?i=js" width="50"><br>JavaScript | <img src="https://skillicons.dev/icons?i=ts" width="50"><br>TypeScript |
+| <img src="https://skillicons.dev/icons?i=html" width="50"><br>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="50"><br>CSS3 | <img src="https://skillicons.dev/icons?i=md" width="50"><br>Markdown |
 
----
+</td>
 
-### 🗄️ Databases
+<td align="center">
 
-| | | |
-|:-:|:-:|:-:|
-| <img src="https://skillicons.dev/icons?i=mongodb" width="45"><br>MongoDB | <img src="https://skillicons.dev/icons?i=mysql" width="45"><br>MySQL | <img src="https://skillicons.dev/icons?i=sqlite" width="45"><br>SQLite |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
----
+</td>
 
-### ☁️ Cloud & Hosting
+<td valign="top" align="center">
 
-| | | |
-|:-:|:-:|:-:|
-| <img src="https://skillicons.dev/icons?i=gcp" width="45"><br>Google Cloud | <img src="https://skillicons.dev/icons?i=vercel" width="45"><br>Vercel | <img src="https://skillicons.dev/icons?i=netlify" width="45"><br>Netlify |
-| <img src="https://skillicons.dev/icons?i=cloudflare" width="45"><br>Cloudflare | <img src="https://skillicons.dev/icons?i=render" width="45"><br>Render | |
-
----
-
-### 🤖 AI / Machine Learning
+<h3>⚛️ Frameworks & Libraries</h3>
 
 | | | |
 |:-:|:-:|:-:|
-| 🟠<br>TensorFlow | 🔴<br>Keras | 👁️<br>OpenCV |
-| 🔢<br>NumPy | 🐼<br>Pandas | 📈<br>Matplotlib |
-| 🔬<br>SciPy | | |
+| <img src="https://skillicons.dev/icons?i=react" width="50"><br>React | <img src="https://skillicons.dev/icons?i=vite" width="50"><br>Vite | <img src="https://skillicons.dev/icons?i=bootstrap" width="50"><br>Bootstrap |
+| <img src="https://skillicons.dev/icons?i=django" width="50"><br>Django | <img src="https://skillicons.dev/icons?i=express" width="50"><br>Express.js | <img src="https://skillicons.dev/icons?i=nodejs" width="50"><br>Node.js |
+| <img src="https://skillicons.dev/icons?i=npm" width="50"><br>NPM | <img src="https://skillicons.dev/icons?i=firebase" width="50"><br>Firebase | <img src="https://skillicons.dev/icons?i=supabase" width="50"><br>Supabase |
 
----
+</td>
 
-### 🛠️ Tools
+</tr>
+
+<tr>
+<td colspan="3" height="90"></td>
+</tr>
+
+<tr>
+
+<td valign="top" align="center">
+
+<h3>🗄️ Databases</h3>
 
 | | | |
 |:-:|:-:|:-:|
-| <img src="https://skillicons.dev/icons?i=git" width="45"><br>Git | <img src="https://skillicons.dev/icons?i=github" width="45"><br>GitHub | <img src="https://skillicons.dev/icons?i=postman" width="45"><br>Postman |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="50"><br>MongoDB | <img src="https://skillicons.dev/icons?i=mysql" width="50"><br>MySQL | <img src="https://skillicons.dev/icons?i=sqlite" width="50"><br>SQLite |
+
+</td>
+
+<td align="center">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</td>
+
+<td valign="top" align="center">
+
+<h3>☁️ Cloud & Hosting</h3>
+
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=gcp" width="50"><br>Google Cloud | <img src="https://skillicons.dev/icons?i=vercel" width="50"><br>Vercel | <img src="https://skillicons.dev/icons?i=netlify" width="50"><br>Netlify |
+| <img src="https://skillicons.dev/icons?i=cloudflare" width="50"><br>Cloudflare | <img src="https://skillicons.dev/icons?i=render" width="50"><br>Render | |
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="3" height="90"></td>
+</tr>
+
+<tr>
+
+<td valign="top" align="center">
+
+<h3>🤖 AI / Machine Learning</h3>
+
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="50"><br>TensorFlow | <img src="https://cdn.simpleicons.org/keras/D00000" width="50"><br>Keras | <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="50"><br>OpenCV |
+| <img src="https://cdn.simpleicons.org/numpy/013243" width="50"><br>NumPy | <img src="https://cdn.simpleicons.org/pandas/150458" width="50"><br>Pandas | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"><br>Matplotlib |
+| <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="50"><br>SciPy | | |
+
+</td>
+
+<td align="center">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</td>
+
+<td valign="top" align="center">
+
+<h3>🛠️ Tools</h3>
+
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=git" width="50"><br>Git | <img src="https://skillicons.dev/icons?i=github" width="50"><br>GitHub | <img src="https://skillicons.dev/icons?i=postman" width="50"><br>Postman |
 | ⚡<br>Nodemon | | |
 
+</td>
+
+</tr>
+
+</table>
 
 ![snake gif](https://github.com/BaunaX/BaunaX/blob/output/github-snake-dark.svg)
 
