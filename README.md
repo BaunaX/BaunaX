@@ -1,6 +1,19 @@
 ![logo](https://github.com/BaunaX/BaunaX/blob/main/Deep%20Banner.png)
 <h1 align="center">Hey There👋, I'm Deep Maitra, Welcome to my GitHub🐙.</h1>
-<h3 align="center">🎓 I'm a B.Tech Computer Science student passionate about technology 💡, innovation, and building impactful software. As a Software Developer 💻, I enjoy creating scalable applications while exploring System Design ⚙️ and modern development practices. I'm deeply interested in Artificial Intelligence and Machine Learning 🤖, building intelligent solutions with Python 🐍, TensorFlow, and Computer Vision 👁️. Beyond coding, I'm an event photographer and visual storyteller 📸 who loves capturing moments through the lens. I'm constantly learning 🚀, experimenting with new technologies 🧠, and turning ideas into real-world projects 🌍, currently exploring Deep Learning, React ⚛️, and Cloud Technologies ☁️.</h3>
+<p><br></p>
+<h2 align="center" justify="center">💡 Turning coffee ☕ into code and ideas into projects.</h2>
+<p><br></p>
+<h3 align="left">
+  
+- 💻 Software Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🐍 Python Programmer
+- ⚛️ Learning React & Modern Web Development
+- 📷 Event Photographer
+- 🎮 Gamer | Creator | Problem Solver
+- 🌱 Always learning something new</h3>
+
+<p><br></p>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8834a464-a727-4498-bb9a-bfc09d7d9fa5"/>
 
@@ -11,7 +24,7 @@
 - 📫 How to reach me **deepmaitra2006@gmail.com**
 
 <br clear="right">
-<h1 align="center">Connect with me:</h1>
+<h1 align="center"> 🔗 Connect with me:</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/deep-maitra-292097263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep maitra" height="48" width="64" /></a>
 <a href="https://www.kaggle.com/deepmaitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deep maitra" height="48" width="64" /></a>
@@ -155,7 +168,7 @@
 
 <p><br></p>
 
-<h1 align="center">Contributions 🤝🏼</h1>
+<h1 align="left">🤝🏼Contributions</h1>
 
 ![snake gif](https://github.com/BaunaX/BaunaX/blob/output/github-snake-dark.svg)
 
