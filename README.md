@@ -1,27 +1,24 @@
 ![logo](https://github.com/BaunaX/BaunaX/blob/main/Deep%20Banner.png)
 <h1 align="center">Hey There👋, I'm Deep Maitra, Welcome to my GitHub🐙.</h1>
 <p><br></p>
-<h2 align="center" justify="center">💡 Turning coffee ☕ into code and ideas into projects.</h2>
+<h2 align="center" justify="center"> Turning coffee ☕ into code and ideas💡 into projects.</h2>
 <p><br></p>
-<h3 align="left">
-  
+<h3 align="left"></h3>
+
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8834a464-a727-4498-bb9a-bfc09d7d9fa5"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baunax&label=Profile%20views&color=0e75b6&style=flat" alt="baunax" /> </p>
+
 - 💻 Software Developer
 - 🤖 AI & Machine Learning Enthusiast
 - 🐍 Python Programmer
 - ⚛️ Learning React & Modern Web Development
 - 📷 Event Photographer
 - 🎮 Gamer | Creator | Problem Solver
-- 🌱 Always learning something new</h3>
-
-<p><br></p>
-
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8834a464-a727-4498-bb9a-bfc09d7d9fa5"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baunax&label=Profile%20views&color=0e75b6&style=flat" alt="baunax" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/BaunaX?tab=repositories](https://github.com/BaunaX?tab=repositories)
+- 🌱 Always learning something new
 
 - 📫 How to reach me **deepmaitra2006@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/BaunaX?tab=repositories](https://github.com/BaunaX?tab=repositories)
 
 <br clear="right">
 <h1 align="center"> 🔗 Connect with me:</h1>
