@@ -1,6 +1,6 @@
 ![logo](https://github.com/BaunaX/BaunaX/blob/main/Deep%20Banner.png)
-<h1 align="center">Hey 👋, I'm Deep Maitra</h1>
-<h3 align="center">A passionate developer from India, who is always interested into learning and building projects.</h3>
+<h1 align="center">Hey There👋, I'm Deep Maitra, Welcome to my GitHub🐙.</h1>
+<h3 align="center">🎓 I'm a B.Tech Computer Science student passionate about technology 💡, innovation, and building impactful software. As a Software Developer 💻, I enjoy creating scalable applications while exploring System Design ⚙️ and modern development practices. I'm deeply interested in Artificial Intelligence and Machine Learning 🤖, building intelligent solutions with Python 🐍, TensorFlow, and Computer Vision 👁️. Beyond coding, I'm an event photographer and visual storyteller 📸 who loves capturing moments through the lens. I'm constantly learning 🚀, experimenting with new technologies 🧠, and turning ideas into real-world projects 🌍, currently exploring Deep Learning, React ⚛️, and Cloud Technologies ☁️.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8834a464-a727-4498-bb9a-bfc09d7d9fa5"/>
 
@@ -154,6 +154,8 @@
 
 
 <p><br></p>
+
+<h1 align="center">Contributions 🤝🏼</h1>
 
 ![snake gif](https://github.com/BaunaX/BaunaX/blob/output/github-snake-dark.svg)
 
